@@ -1,2 +1,2 @@
 # ChaDwm
-Dynamic tiling window manager for X11 based on suckless dwm.
+X11 dynamic tiling window manager based on suckless dwm.
