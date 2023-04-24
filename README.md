@@ -1,4 +1,4 @@
-# Chadwm
+# Chadwm 💪
 <img align="right" src="https://media.tenor.com/epNMHGvRyHcAAAAd/gigachad-chad.gif" width="145" height="245">
 
 <br>
